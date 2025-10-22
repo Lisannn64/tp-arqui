@@ -1,1 +1,5 @@
 datos del equipo
+
+Valentina Blancquaert
+192.168.0.104
+10:54
