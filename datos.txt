@@ -1,5 +1,11 @@
 datos del equipo
+<<<<<<< HEAD
 
 Valentina Blancquaert
 192.168.0.104
 10:54
+=======
+Nombre: Gonzalo Corpus
+IP: 192.168.1.8
+Hora: 10:35
+>>>>>>> 29a45efbc4407c1e02989f960fc4ecf4fd9ee624
